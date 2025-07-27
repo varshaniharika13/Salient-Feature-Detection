@@ -1,8 +1,8 @@
 # Salient Feature Detection for Efficient Object Recognition
 
 ## Team Members
-- Pearl Miglani – 011855836  
-- Varsha Niharika Mallampati – 011860708
+- Pearl Miglani 
+- Varsha Niharika Mallampati
 
 ## Abstract
 Salient feature detection identifies the regions in an image that stand out and naturally draw human attention. By integrating this with object detection pipelines, the system focuses only on salient regions, improving both speed and efficiency. This project evaluates different saliency detection techniques using the MIT300 dataset, comparing performance based on accuracy, Intersection over Union (IoU), and processing time.
